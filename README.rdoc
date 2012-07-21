@@ -1,0 +1,8 @@
+= Python Project
+Ras Kasa Williams
+
+== Description
+This repo is used to learn Python programming.
+
+== Future Updates
+ * Complete Athlete Times web app
