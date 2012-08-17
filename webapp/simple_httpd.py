@@ -1,4 +1,3 @@
-
 from http.server import HTTPServer, CGIHTTPRequestHandler
 
 port = 8000
