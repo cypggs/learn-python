@@ -1,0 +1,12 @@
+application: hfwwg
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+- url: /static
+  static_dir: static
+# The below handler should always be the last handler in the YAML file.
+- url: /.*
+  script: hfwwg.py
+  #login: required
